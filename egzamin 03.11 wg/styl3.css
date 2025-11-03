@@ -1,0 +1,39 @@
+body{
+    font-style: georgia;
+}
+
+.prawy{
+    background-color: snow;
+    width: 75%;
+    height: 500px;
+    text-align: center;
+    margin-top: 50px;
+    float: right;
+}
+.lewy{
+    background-color:#FF8A65 ;
+    width: 25%;
+    height: 500px;
+    padding-top: 50px;
+    
+}
+
+.banera,footer{
+    background-color:#C75B39;
+    color:white;
+    padding-top : 10px; 
+    text-align: center;
+}
+img{
+    width: 25%;
+    margin: 10px;
+    box-shadow: inset;vertical-align:15px, dimgray 15px;;
+
+}
+
+h3{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 0px;
+    margin-right: 0px;
+}

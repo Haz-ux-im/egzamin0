@@ -1,0 +1,5 @@
+KW1
+SELECT nazwa,ulica FROM kwiaciarnie WHERE miasto = 'Malbork';
+
+kw2
+

@@ -1,0 +1,3 @@
+zapytanie 1
+
+SELECT imie,nazwisko,klasa FROM uczniowie WHERE klasa="2B";

@@ -1,0 +1,48 @@
+*{
+    font-family: century;
+}
+.baner{
+    display: flex;
+    padding:10px;
+    justify-content: center;
+    text-align: initial;
+}
+.baner,footer{
+    background-color:#CCA10B;
+    color: white;
+    text-decoration:dashed;
+    padding: 5px;
+    text-align: center;
+}
+.blok_lewy,.blok_prawy{
+    background-color:rgb(5,160,88);
+}
+.blok_lewy{
+    text-align: left;
+    width: 70%;
+    height: 620px;
+    float: left;
+}
+.blok_prawy{
+   font-family: LucidaConsole, Consolas, Courier New, monospace;
+   width: 30%;
+   height: 600px;
+   padding-top: 20px;
+   font-size: 14px;
+   float: right;
+}
+
+.baner #akapitbaner{
+text-decoration: bold;
+box-shadow:2px 2px 4px black 60%;
+
+}
+h1{
+    padding-left: 30px;
+
+}
+.blok_lewy img{
+    height: 100px;
+    width: 100px;
+    padding-left: 30px;
+}
